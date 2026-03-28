@@ -1,25 +1,78 @@
-# 💫 About Me:
-👋 Olá! me chamo Matheus, e sou aficionado por tecnologia.<br>📌 Atualmente estou cursando Bacharelado em Tecnologia da Informação no Instituto Metrópole Digital da UFRN<br>🎯 Por ora, estou me dedicando em aprender o  framework Django e aprimorar minhas soft skills
+<h1 align="center">👋 Olá! Eu sou o Matheus  <br>💻 Desenvolvedor em formação, <br>🚀 Focado em Desenvolvimento Web</h1>
 
+###
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/338718244208771083) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/matheus.rodrigues.5059?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/matheus_r90?igsh=Z2Y3dmpvZGdncnA=)
+<h3 align="left">📌 Atualmente estou cursando Bacharelado em Tecnologia da Informação no Instituto Metrópole Digital da UFRN<br>🎯 Por ora, estou me dedicando em aprender o framework Spring e aprimorar minhas soft skills</h3>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
+###
 
-![](https://github-readme-stats.vercel.app/api?username=MatheusRegoDev&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MatheusRegoDev&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRegoDev&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+</div>
 
-![4521b7b2e59c1455b15247f1704abcb8](https://github.com/MatheusRegoDev/MatheusRegoDev/assets/138734637/9beec758-f651-44c8-8776-12ea2ea76397)
+###
 
-#
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MatheusRegoDev&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://discord.gg/338718244208771083" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/matheus_r90?igsh=Z2Y3dmpvZGdncnA%3D&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="mailto:matheus.rodrigues9041@gmailcom" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=MatheusRegoDev&icon=0&color=1)](https://visitcount.itsvg.in)
+###
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h5 align="left">🎯 Objetivos atuais<br><br>Estudando Spring <br>Aprendendo autenticação com JWT<br>Aprendendo JPA para criar todo o mapeamento de objeto relacional Java para a base de dados</h5>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MatheusRegoDev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusRegoDev/MatheusRegoDev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusRegoDev/MatheusRegoDev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MatheusRegoDev/MatheusRegoDev/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<p align="center">⚡ Sempre buscando evoluir 1% a cada dia</p>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MatheusRegoDev.MatheusRegoDev&"  />
+</div>
+
+###
