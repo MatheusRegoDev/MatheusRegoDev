@@ -1,8 +1,14 @@
-<h1 align="center">👋 Olá! Eu sou o Matheus  <br>💻 Desenvolvedor em formação, <br>🚀 Focado em Desenvolvimento Web</h1>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=89&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
 ###
 
-<h3 align="left">📌 Atualmente estou cursando Bacharelado em Tecnologia da Informação no Instituto Metrópole Digital da UFRN<br>🎯 Por ora, estou me dedicando em aprender o framework Spring e aprimorar minhas soft skills</h3>
+<h1 align="center">Olá, eu sou o Matheus Rodrigues  👋</h1>
+
+###
+
+<h3 align="left">🧠 Sobre mim: <br><br>🎓Estudante de Tecnologia da Informação no Instituto Metrópole Digital (IMD/UFRN), com forte interesse em desenvolvimento de software e aprendizado contínuo.<br><br>🎯 Por ora, estou me dedicando em aprender o framework Spring e aprimorar minhas soft skills.</h3>
 
 ###
 
@@ -49,7 +55,7 @@
 
 ###
 
-<h5 align="left">🎯 Objetivos atuais<br><br>Estudando Spring <br>Aprendendo autenticação com JWT<br>Aprendendo JPA para criar todo o mapeamento de objeto relacional Java para a base de dados</h5>
+<h3 align="left">🎯 Objetivos atuais<br><br>- Estudando Spring <br>- Aprendendo autenticação com JWT<br>- Aprendendo JPA para criar todo o mapeamento de objeto relacional Java para a base de dados<br>- APIs RESTful</h3>
 
 ###
 
@@ -73,6 +79,12 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MatheusRegoDev.MatheusRegoDev&"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=89&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
